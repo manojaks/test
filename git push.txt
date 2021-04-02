@@ -5,3 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/manojaks/test.git
 git push -u origin main
+
+
+
+git status  - kuchh change to nahi hua hai check karane ke liye
